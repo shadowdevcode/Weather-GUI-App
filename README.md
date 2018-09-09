@@ -1,4 +1,4 @@
-Sunshine
+<h1>Sunshine</h1>
 A simple weather GUI app with Tkinter that fetches weather data from openweather map API
 
 How to use it?
