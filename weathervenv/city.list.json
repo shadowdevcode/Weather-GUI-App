@@ -1,0 +1,11 @@
+{
+  "city":[
+  {"_id":1261481,"name":"New Delhi","country":"IN","coord":{"lon":77.23114,"lat":28.61282}},
+  {"_id":1271951,"name":"Faridabad","country":"IN","coord":{"lon":77.316666,"lat":28.433332}},
+  {"_id":1277558,"name":"Ballabgarh","country":"IN","coord":{"lon":77.316666,"lat":28.35}},
+  {"_id":1260637,"name":"Palwal","country":"IN","coord":{"lon":77.333336,"lat":28.15}},
+  {"_id":1278146,"name":"Aurangābād","country":"IN","coord":{"lon":77.333336,"lat":28.033333}},
+  {"_id":1277333,"name":"Bangalore","country":"IN","coord":{"lon":77.603287,"lat":12.97623}}
+  ]
+}
+
