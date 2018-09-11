@@ -13,3 +13,8 @@ Steps to build .exe file:
 1. Open terminal with the same directory of the project
 2. Make sure you make a setup.py file for build. Check online for more details
 3. After you have made setup.py. Type this - python setup.py build
+
+### Few Screenshots:
+![Main](https://user-images.githubusercontent.com/39980643/45363233-9a4a2c00-b5f4-11e8-9f2c-97dc30f90814.png)
+
+![Adding-City](https://user-images.githubusercontent.com/39980643/45363253-a930de80-b5f4-11e8-99b1-796647333f1c.png)
